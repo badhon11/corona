@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">corona</string>
+    <string name="coronaIntro">Useful info about COVID-19:</string>
+
+    <string name="symText">COVID-19 typically causes flu-like symptoms including a fever and cough.
+
+In some patients - particularly the elderly and others with other chronic health conditions - these symptoms can develop into pneumonia, with chest tightness, chest pain, and shortness of breath.
+
+It seems to start with a fever, followed by a dry cough.
+
+After a week, it can lead to shortness of breath, with about 20% of patients requiring hospital treatment.
+
+Notably, the COVID-19 infection rarely seems to cause a runny nose, sneezing, or sore throat (these symptoms have been observed in only about 5% of patients). Sore throat, sneezing, and stuffy nose are most often signs of a cold.</string>
+
+    <string name="mildText">Based on all 72,314 cases of COVID-19 confirmed, suspected, and asymptomatic cases in China as of February 11, a paper by the Chinese CCDC released on February 17 and published in the Chinese Journal of Epidemiology has found that:
+
+\n* 80.9% of infections are mild (with flu-like symptoms) and can recover at home.
+\n* 13.8% are severe, developing severe diseases including pneumonia and shortness of breath.
+\n* 4.7% as critical and can include: respiratory failure, septic shock, and multi-organ failure.
+\n* in about 2% of reported cases the virus is fatal.
+\n* Risk of death increases the older you are.
+\n* Relatively few cases are seen among children.</string>
+    <string name="perConditions">Pre-existing illnesses that put patients at higher risk:\n
+
+    1.Cardiovascular disease\n
+    2.Diabetes\n
+    3.Chronic respiratory disease\n
+    4.Hypertension\n
+That said, some otherwise healthy people do seem to develop a severe form of pneumonia after being infected by the virus.
+        The reason for this is being investigated as we try to learn more about this new virus.</string>
+</resources>

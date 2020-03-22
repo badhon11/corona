@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AbsoluteLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/background"
+    tools:context=".MainActivity"
+    tools:ignore="Deprecated">
+
+
+    <Button
+        android:id="@+id/symptomsButton"
+        android:layout_width="189dp"
+        android:layout_height="69dp"
+        android:layout_x="125dp"
+        android:layout_y="177dp"
+        android:text="Symptoms" />
+
+    <Button
+        android:id="@+id/statisticsButoon"
+        android:layout_width="189dp"
+        android:layout_height="69dp"
+        android:layout_x="130dp"
+        android:layout_y="394dp"
+        android:text="Statistics" />
+
+    <Button
+        android:id="@+id/preventionButoon"
+        android:layout_width="189dp"
+        android:layout_height="69dp"
+        android:layout_x="125dp"
+        android:layout_y="288dp"
+        android:text="Prevention" />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="268dp"
+        android:layout_height="56dp"
+        android:layout_x="45dp"
+        android:layout_y="109dp"
+        android:fontFamily="@font/abril_fatface"
+        android:text="@string/coronaIntro"
+        android:textSize="18sp" />
+</AbsoluteLayout>
